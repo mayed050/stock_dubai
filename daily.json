@@ -1,0 +1,69 @@
+{
+  "as_of": "2025-08-08",
+  "timezone": "Asia/Dubai",
+  "symbols": {
+    "DEWA.AE": {
+      "name_ar": "هيئة كهرباء ومياه دبي",
+      "exchange": "DFM",
+      "last": null,
+      "change": null,
+      "volume": null,
+      "value_aed": null
+    },
+    "SALIK.AE": {
+      "name_ar": "سالك",
+      "exchange": "DFM",
+      "last": null,
+      "change": null,
+      "volume": null,
+      "value_aed": null
+    },
+    "TALABAT.AE": {
+      "name_ar": "طلبات هولدينغ",
+      "exchange": "DFM",
+      "last": null,
+      "change": null,
+      "volume": null,
+      "value_aed": null
+    },
+    "NMDCENR": {
+      "name_ar": "إن إم دي سي إنرجي",
+      "exchange": "ADX",
+      "last": null,
+      "change": null,
+      "volume": null,
+      "value_aed": null
+    }
+  },
+  "analytics": {
+    "DEWA.AE": {
+      "rsi14": null,
+      "ma20": null,
+      "ma50": null,
+      "recommendation": null,
+      "target_price_aed": null
+    },
+    "SALIK.AE": {
+      "rsi14": null,
+      "ma20": null,
+      "ma50": null,
+      "recommendation": null,
+      "target_price_aed": null
+    },
+    "TALABAT.AE": {
+      "rsi14": null,
+      "ma20": null,
+      "ma50": null,
+      "recommendation": null,
+      "target_price_aed": null
+    },
+    "NMDCENR": {
+      "rsi14": null,
+      "ma20": null,
+      "ma50": null,
+      "recommendation": null,
+      "target_price_aed": null
+    }
+  },
+  "notes": "سيتم تحديث هذه القيم تلقائياً عبر GitHub Actions الساعة 12 ظهراً بتوقيت الإمارات (UTC+4) في أيام التداول."
+}
